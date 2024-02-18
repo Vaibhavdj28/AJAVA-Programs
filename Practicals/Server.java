@@ -42,6 +42,7 @@ public class Server{
                 System.out.print("Server(You) : ");
 
                 str1 = kb.readLine();//reding data from keyboard
+                
                 ps.println(str1);//sending data to client
             }
 
